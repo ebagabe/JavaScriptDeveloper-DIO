@@ -11,3 +11,5 @@ function verifyAge(age) {
         console.log('Underage');
     }
 }
+
+verifyAge(15);
